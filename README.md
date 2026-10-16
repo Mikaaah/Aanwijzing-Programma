@@ -120,3 +120,7 @@ De Windows-bouwserver van GitHub voert deze opdracht automatisch uit bij een
 push naar `main`; je hoeft lokaal niets te installeren om de exe te gebruiken.
 Met `NEN3140_Aanwijzingen.exe --self-test` controleer je alle vijf rollen en
 het meegeleverde sjabloon zonder het venster te openen.
+
+## Bijdragen
+
+Bugs, ideeën en gerichte pull requests zijn welkom. Lees de [bijdragehandleiding](CONTRIBUTING.md) voor rapportage en testverwachtingen.
