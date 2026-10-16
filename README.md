@@ -12,7 +12,7 @@ door de organisatie ingevuld. Bekijk het resultaat voordat het wordt ondertekend
 
 ## Zonder Python op je werkcomputer
 
-Download via de [GitHub Actions-pagina](https://github.com/Mikaaah/aanwijzingen/actions)
+Download via de [GitHub Actions-pagina](https://github.com/Mikaaah/Aanwijzing-Programma/actions/workflows/build-windows-exe.yml)
 de nieuwste succesvolle uitvoering van **Bouw Windows exe**. Download onder
 **Artifacts** `NEN3140_Aanwijzingen-Windows`, pak de ZIP uit en start
 `NEN3140_Aanwijzingen.exe`. Op de gebruikerscomputer hoeft Python niet te zijn
@@ -20,7 +20,7 @@ geïnstalleerd. Het programma werkt zonder internet. Een PDF wordt ook gemaakt
 als Microsoft Word op die computer beschikbaar is; anders krijg je alleen de
 DOCX en een duidelijke melding.
 
-Je kunt ook de kant-en-klare exe uit deze conversatie downloaden.
+Gebruik voor een kant-en-klare versie het artifact van de laatste succesvolle GitHub Actions-build. GitHub kan vereisen dat je bent ingelogd om artifacts te downloaden.
 
 ## Indeling
 
