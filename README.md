@@ -1,6 +1,6 @@
 # Eqraft | NEN 3140 Aanwijzingen
 
-[Project status](https://github.com/Mikaaah/Mikaaah/blob/master/STATUS.md) · [Report a bug](https://github.com/Mikaaah/Aanwijzing-Programma/issues/new?template=bug_report.yml) · [Suggest a feature](https://github.com/Mikaaah/Aanwijzing-Programma/issues/new?template=feature_request.yml) · [Questions](https://github.com/Mikaaah/Aanwijzing-Programma/issues/new?template=question.yml) · [Creator's CurseForge projects](https://www.curseforge.com/members/mikaaah/projects)
+[Project status](https://github.com/Mikaaah/Mikaaah/blob/master/STATUS.md) · [Report a bug](https://github.com/Mikaaah/Aanwijzing-Programma/issues/new?template=bug_report.yml) · [Suggest a feature](https://github.com/Mikaaah/Aanwijzing-Programma/issues/new?template=feature_request.yml) · [Questions](https://github.com/Mikaaah/Aanwijzing-Programma/issues/new?template=question.yml)
 
 Windows-programma voor het maken van een aanwijzing voor IV, WV, VP of VOP en
 voor het vastleggen van een instructie aan een leek. De ingevoerde bevoegdheden,
